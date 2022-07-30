@@ -1,6 +1,10 @@
 1/Amazon Clone:
 2/    -Products
 3/    -users
-4/    -payments
+4/    -payments:
+       -paypal
+       -master card , visa card
+       -crypto
 5/    -coupons
-6/    -order
+6/    -order:
+        -track order
