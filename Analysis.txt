@@ -8,3 +8,9 @@
 5/    -coupons
 6/    -order:
         -track order
+-----------------------------------
+7/    -clean UI
+8/    -fast
+9/    -secure
+10/   -api
+11/   -advanced reports
